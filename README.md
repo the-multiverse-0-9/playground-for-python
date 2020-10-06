@@ -10,3 +10,4 @@ Simple examples that help you get started with Appwrite + Python (=❤️)
 4. Welcome Program
 5. Area & Circumference of a Circle
 6. Swap Program
+7. Random Number Generator
