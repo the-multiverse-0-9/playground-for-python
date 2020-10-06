@@ -9,3 +9,4 @@ Simple examples that help you get started with Appwrite + Python (=❤️)
 3. Larger or Smaller Numbers
 4. Welcome Program
 5. Area & Circumference of a Circle
+6. Swap Program
